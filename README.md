@@ -25,11 +25,6 @@ This is a simple, command-line **Student Attendance Management System** built wi
 2.  **Create Student List:** In the same directory, create a file named **`students.csv`**. This file should contain one student name per line.
 
     **Example `students.csv` content:**
-    ```csv
-    Alice Johnson
-    Bob Smith
-    Charlie Brown
-    ```
 3.  **Run the script:** Open your terminal or command prompt, navigate to the directory where you saved the files, and run the main script.
 
     ```bash
@@ -56,14 +51,6 @@ Selecting option **1** will start the attendance process for the current date.
 Selecting option **2** will read and display the current contents of the **`attendance.csv`** file in the console.
 
 **Example `attendance.csv` output after marking attendance:**
-
-| Student Name | 2025-11-23 |
-| :--- | :--- |
-| Alice Johnson | P |
-| Bob Smith | A |
-| Charlie Brown | P |
-
----
 
 ###  Code Structure
 
